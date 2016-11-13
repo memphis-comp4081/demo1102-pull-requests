@@ -3,6 +3,8 @@
 
 ## Resources
 * Video: https://youtu.be/A1lgXMMbmxE
+* _GitHub Flow_ Guide: https://guides.github.com/introduction/flow/
+* _GitHub Flow_ Video (by GitHub): https://youtu.be/juLIxo42A_s
  
 ## Goals
 
